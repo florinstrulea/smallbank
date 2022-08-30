@@ -14,7 +14,7 @@ public interface IAcount {
 
     // view previous transaction
 
-    public void viewPrevioudTransaction();
+    public void view10Transactions();
 
     // calculate interest
 
